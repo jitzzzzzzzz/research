@@ -26,7 +26,7 @@ def main():
 		# Introduction text
 		st.write("""
         ### Welcome to HealthGuard!
-        HealthGuard uses advanced machine learning algorithms to predict the likelihood of a patient developing multiple diseases. It’s designed to support early intervention and appropriate medical care to improve patient outcomes.
+        HealthGuard uses advanced machine learning algorithms to predict the likelihood of a patient developing multiple diseases. It’s designed to support early intervention based on their medical history, lifestyle, genetic factors, and other relevant data and appropriate medical care to improve patient outcomes.
         
         ### Diseases Predicted
         - **Diabetes**
